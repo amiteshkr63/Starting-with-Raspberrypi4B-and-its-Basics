@@ -1,0 +1,3 @@
+sudo raspi-config
+Expand filesystem bcz you can have extra space left onto your SD card, then you can utilize it by following options:
+Advance options>Expand filesystem
