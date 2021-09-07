@@ -66,9 +66,18 @@ network={
     psk="PASSWORD_wifi1"
    priority=1
 }
- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
- ##########################################################################
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+##########################################################################
 TASK:CONNECTING Our raspberry pi to INTERNET:
 SUCCESSFUL
+reference:
+https://www.youtube.com/watch?v=_OPwRC8EmB0
 #########################################################################
- 
+1)Now, remove SD card from your laptop, put it in your Raspberri pi
+2)power the raspberri and wait for 4-5 minutes to connect it to Wifi.
+3)Then, ssh via putty(SSH and TELNET client)
+download link for putty:
+https://www.putty.org/
+4)open putty
+5)Host Name:raspberrypi.local Port:22  (if your host name not taken then, try to find ip of your raspberry from an app<"Advance dip scanner"> )(it will tell you
+the ip addresses of connected devices from wifi)
