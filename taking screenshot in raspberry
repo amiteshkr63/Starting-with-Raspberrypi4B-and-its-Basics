@@ -1,0 +1,6 @@
+command:
+sudo apt-get install scrot
+
+
+after installing scrot use command to take SCREENSHOT:
+scrot
