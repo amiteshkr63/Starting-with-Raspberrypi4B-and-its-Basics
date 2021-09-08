@@ -55,7 +55,7 @@ country=IN
 network={
    ssid="WIFI-NAME3"
     psk="PASSWORD_wifi3"
-    priority=3
+    priority=3              #highest_priority
 }
 network={
    ssid="WIFI-NAME2"
@@ -65,7 +65,7 @@ network={
 network={
    ssid="WIFI-NAME1"
     psk="PASSWORD_wifi1"
-   priority=1
+   priority=1               #lowest_priority
 }
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ##########################################################################
