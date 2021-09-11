@@ -1,6 +1,15 @@
+#####################################################################
+RASPBERRY COMMAND SHELL:
 command:
 sudo apt-get install scrot
 
-
 after installing scrot use command to take SCREENSHOT:
 scrot
+######################################################################
+######################################################################
+If you Want to take screenshot via Putty shell(make sure you installed 'scrot' prior before this):
+command:
+DISPLAY=:0 scrot
+#NOTE:
+This screenshot doesn't include putty shell. only VNC viewer.
+####################################################################
