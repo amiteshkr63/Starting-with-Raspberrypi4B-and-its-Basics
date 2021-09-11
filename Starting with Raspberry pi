@@ -87,12 +87,12 @@ https://www.putty.org/
 4)open putty
 5)Host Name:raspberrypi.local Port:22  (if your host name not taken then, try to find ip of your raspberry from an app<"Advance dip scanner"> )(it will tell you
 the ip addresses of connected devices from wifi)
-6)Now, you are entered into raspberry SHELL:
+6)Now, you are entered into putty SHELL which is ssh to raspberry:
 login:pi
 password:raspberry
 7)use <ifconfig> cmd to get ip address of your raspberry
 8)enter <sudo raspi-config> then you will enter into raspian configuration window
-9)now we must enable VNC viewer:
+9)now we must enable VNC viewer(For Graphical user interface(GUI)):
 Interface Options>VNC>ENTER
 Enable the VNC viewer.
 10)Now reboot Raspberri
