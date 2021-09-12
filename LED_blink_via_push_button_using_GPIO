@@ -1,0 +1,21 @@
+
+#Build a circuit using your Raspberry Pi that causes an LED to blink when a push button is NOT pressed. 
+#However, the LED should stay on continually when the push button IS pressed. 
+import RPi.GPIO as GPIO
+import time
+#setting_board_numbering_mode
+GPIO.setmode(GPIO.BOARD)
+#setting_GPIO_pins_as_i/p_or_o/p
+GPIO.setup(3,GPIO.IN)
+GPIO.setup(5,GPIO.OUT)
+#blink
+while True:
+
+    if ((GPIO.input(3))==1):
+        GPIO.output(5,True)
+        time.sleep(0.5)
+        GPIO.output(5,False)
+        time.sleep(0.5)
+        
+    else:
+        GPIO.output(5,True)
