@@ -85,7 +85,7 @@ TASK:Installing VNC viewer to view desktop of raspberry
 download link for putty:
 https://www.putty.org/
 4)open putty
-5)Host Name:raspberrypi.local Port:22  (if your host name not taken then, try to find ip of your raspberry from an app<"Advance dip scanner"> )(it will tell you
+5)Host Name:raspberrypi.local Port:22  (if your host name not taken then, try to find ip of your raspberry from an app<"Advance ip scanner"> )(it will tell you
 the ip addresses of connected devices from wifi)
 6)Now, you are entered into putty SHELL which is ssh to raspberry:
 login:pi
