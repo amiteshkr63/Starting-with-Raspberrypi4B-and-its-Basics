@@ -3,6 +3,9 @@
 ![rpi](https://user-images.githubusercontent.com/88953654/134862798-668056dc-7f84-4302-a6c4-d7bc866c43e5.png)
 
 
+https://user-images.githubusercontent.com/88953654/134863631-7c387fe3-6f45-47d1-a53f-e27a64afd9bf.mp4
+
+
 ## First Step:Making Raspberry HEADLESS (SETUP)
 ### Connecting Raspberry pi to our lapi WIRELESSLY over Wifi
 #### TASK_1:Upload Rasberry OS on SD card
