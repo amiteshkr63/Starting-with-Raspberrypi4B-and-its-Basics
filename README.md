@@ -29,7 +29,7 @@ CHOOSE OS>Use Custom>[Goto Location where you downloded the raspian OS]>Choose S
 Then,wait for to complete WRITE of SD card 
 
 #### TASK_1:Upload Rasberry OS on SD card:SUCCESSFUL
-
+*********************************************************************************************************************************************************************************
 #### TASK_2:CONNECTING Our raspberry pi to INTERNET via Wi-Fi
 
 ##### 1)Create a <ssh> named file in boot drive of SD card
@@ -74,7 +74,7 @@ network={
 }
 ```
 ##### TASK_2:CONNECTING Our raspberry pi to INTERNET via Wi-Fi:SUCCESSFUL
-
+*********************************************************************************************************************************************************************************
 ##### TASK_3:Installing VNC viewer to view desktop of raspberry
 
 1)Now, remove SD card from your laptop, put it in your Raspberri pi
@@ -118,7 +118,7 @@ sudo raspi-config
 Display optios>resolution><YOUR CHOICE OF RESOLUTION>
 
 ##### TASK_3:Installing VNC viewer to view desktop of raspberry:SUCCESSFUL
-
+*********************************************************************************************************************************************************************************
 
 
 
