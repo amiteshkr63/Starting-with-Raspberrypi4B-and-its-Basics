@@ -120,6 +120,12 @@ Display optios>resolution><YOUR CHOICE OF RESOLUTION>
 ##### TASK_3:Installing VNC viewer to view desktop of raspberry:SUCCESSFUL
 *********************************************************************************************************************************************************************************
 
+#### EXTRA:Fitting raspi sceen to lapi screen
+RASPIAN startup>preferences>Screen configuration
+then, set the screen resolution(1280*720) and view(1:16) accordingly.
+https://www.youtube.com/watch?v=I-vCFP2jD1g
 
+#### Wi-fi freq problem:
+https://www.youtube.com/watch?v=vsHxTVtlAZ0
 
 
