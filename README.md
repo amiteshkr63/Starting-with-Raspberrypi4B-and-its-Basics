@@ -1,5 +1,8 @@
 # My work with RaspberryPi4B
 
+![rpi](https://user-images.githubusercontent.com/88953654/134862798-668056dc-7f84-4302-a6c4-d7bc866c43e5.png)
+
+
 ## 1)Making Raspberry HEADLESS (SETUP)
 ### Connecting Raspberry pi to our lapi WIRELESSLY over Wifi
 #### TASK_1:Upload Rasberry OS on SD card
