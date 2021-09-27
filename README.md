@@ -84,26 +84,35 @@ network={
 
 3)Then, ssh via putty(SSH and TELNET(TELNET is unsecure preferablly use SSH) client) or you can also use windows PowerShell to ssh(
 cmmnd:
-'''
+```
 ssh <user_name>@<yours_raspberry_ip_address or domain_name> i.e.,ssh pi@192.168.29.40)
-'''
+```
 download link for putty:
 [https://www.putty.org/](url)
+
 4)open putty
+
 5)Host Name:raspberrypi.local Port:22  (if your host name not taken then, try to find ip of your raspberry from an app<"Advance ip scanner"> )(it will tell you
 the ip addresses of connected devices from wifi)
+
 6)Now, you are entered into putty SHELL which is ssh to raspberry:
 login:pi
 password:raspberry
+
 7)use <ifconfig> cmd to get ip address of your raspberry
+
 8)enter <sudo raspi-config> then you will enter into raspian configuration window
+
 9)now we must enable VNC viewer(For Graphical user interface(GUI)):
 Interface Options>VNC>ENTER
 Enable the VNC viewer.
+
 10)Now reboot Raspberri
 System options>BOOT>DESKTOP
+
 11)VNC Viewer:VNC viewer a graphical desktop sharing system that allows a user to remotely control the desktop of a remote computer (running VNC Server) from your device, 
 and it transmits the keyboard and mouse or touch events to VNC Server, so that once you are connected, you have control over the computer you’ve accessed. 
+
 12)If VNC unable to preview your screen, then try to set resolution of sceen:
 -login into putty or ssh to raspberry
 sudo raspi-config
