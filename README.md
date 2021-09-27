@@ -50,7 +50,7 @@ network={
     ssid="WIFI-NAME"
     psk="PASSWORD_wifi"
 }
-#code ends```
+#code ends
 
 #if you want to connect more than two wifis to your raspberripi
 #code starts
