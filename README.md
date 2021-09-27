@@ -41,7 +41,7 @@ SUCCESSFUL
 
 ##### 3)Paste Following command into <wpa_supplicant.conf> file:
 
-#code starts
+`#code starts
 country=IN           #country=india
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
@@ -50,7 +50,7 @@ network={
     ssid="WIFI-NAME"
     psk="PASSWORD_wifi"
 }
-#code ends
+#code ends`
 
 #if you want to connect more than two wifis to your raspberripi
 #code starts
