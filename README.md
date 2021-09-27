@@ -30,8 +30,8 @@ Goto options:
 CHOOSE OS>Use Custom>[Goto Location where you downloded the raspian OS]>Choose SD card>WRITE
 Then,wait for to complete WRITE of SD card 
 
-#### TASK:Upload Rasberry OS on SD card:
-SUCCESSFUL
+#### TASK_1:Upload Rasberry OS on SD card:SUCCESSFUL
+
 
 #### TASK_2:CONNECTING Our raspberry pi to INTERNET
 
@@ -77,8 +77,8 @@ network={
 }
 ```
 
-##### TASK:CONNECTING Our raspberry pi to INTERNET:
-SUCCESSFUL
+##### TASK_2:CONNECTING Our raspberry pi to INTERNET:SUCCESSFUL
+
 
 
 
