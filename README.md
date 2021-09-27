@@ -74,9 +74,8 @@ network={
 }
 ```
 ##### TASK_2:CONNECTING Our raspberry pi to INTERNET via Wi-Fi:SUCCESSFUL
-    
-    
-##### TASK:Installing VNC viewer to view desktop of raspberry
+
+##### TASK_3:Installing VNC viewer to view desktop of raspberry
 
 1)Now, remove SD card from your laptop, put it in your Raspberri pi
 
@@ -118,6 +117,7 @@ and it transmits the keyboard and mouse or touch events to VNC Server, so that o
 sudo raspi-config
 Display optios>resolution><YOUR CHOICE OF RESOLUTION>
 
+##### TASK_3:Installing VNC viewer to view desktop of raspberry:SUCCESSFUL
 
 
 
