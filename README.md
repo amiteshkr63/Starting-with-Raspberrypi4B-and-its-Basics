@@ -87,7 +87,7 @@ network={
 cmmnd:
 first time when you don't know your pi ip address,use:
 
-    ```ssh pi@raspberrypi.local```
+```ssh pi@raspberrypi.local```
     
 ```ssh <user_name>@<yours_raspberry_ip_address or domain_name> i.e.,ssh pi@192.168.29.40)```
     
