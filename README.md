@@ -83,11 +83,14 @@ network={
 
 2)power the raspberri and wait for 4-5 minutes to connect it to Wifi.
 
-3)Then, ssh via putty(SSH and TELNET(TELNET is unsecure preferablly use SSH) client) or you can also use windows PowerShell to ssh(
+3)Then, ssh via putty(SSH and TELNET(TELNET is unsecure preferablly use SSH) client) or you can also use windows PowerShell to ssh
 cmmnd:
-```
-ssh <user_name>@<yours_raspberry_ip_address or domain_name> i.e.,ssh pi@192.168.29.40)
-```
+first time when you don't know your pi ip address,use:
+
+    ```ssh pi@raspberrypi.local```
+    
+```ssh <user_name>@<yours_raspberry_ip_address or domain_name> i.e.,ssh pi@192.168.29.40)```
+    
 download link for putty:
 [https://www.putty.org/](url)
 
